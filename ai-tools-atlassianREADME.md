@@ -1,5 +1,3 @@
----
-
 ## Part 1: AI Tools in Atlassian Cloud’s System of Work
 
 ### Pros and Cons Chart
